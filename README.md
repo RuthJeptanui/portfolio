@@ -69,9 +69,11 @@ portfolio-website/
 
 No installation required - this is a static website. Simply open `index.html` in any modern browser.
 
-## View Live
+## 🌐 Live Demo
 
-[View Live Portfolio](#) (Add your live URL here when deployed)
+This portfolio is hosted on **GitHub Pages**.
+
+👉 [View Live Site](https://ruthjeptanui.github.io/portfolio/)
 
 ## Customization
 
@@ -95,6 +97,7 @@ To customize this portfolio:
 - **Poppins** (Google Fonts) - Used throughout the website
 
 ## License
+
 
 This project is open source and available under the [MIT License](LICENSE).
 
