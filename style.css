@@ -677,6 +677,7 @@ section{
     box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
 }
 
+/* social links */
 .social-links {
   display: flex;
   gap: 1rem;
@@ -707,7 +708,7 @@ section{
   height: 24px;
 }
 
-
+/* form  */
 .form-group{
     margin-bottom: 1.5rem;
 
@@ -834,9 +835,9 @@ footer {
 }
 @media (max-width: 400px) {
   .interest-card {
-    min-width: 220px; /* Smaller cards */
+    min-width: 220px; 
   }
   .project-info h4 {
-    font-size: 1.2rem; /* Better fit */
+    font-size: 1.2rem; 
   }
 }
