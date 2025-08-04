@@ -681,14 +681,32 @@ section{
   display: flex;
   gap: 1rem;
   margin-top: 1.5rem;
+  align-items: center;
 }
+
 .social-links a {
-  color: var(--castle-green);
+  color: var(--castle-green); 
   transition: transform 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 }
+
 .social-links a:hover {
   transform: translateY(-3px);
 }
+
+.icon {
+    width: 24px;
+    height: 24px;
+    fill: currentColor;
+}
+
+.social-links .icon {
+  width: 24px;
+  height: 24px;
+}
+
 
 .form-group{
     margin-bottom: 1.5rem;
